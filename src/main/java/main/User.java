@@ -64,7 +64,7 @@ public class User {
         }
     }
 
-//    public void Getter() {
-//        int it =1+1;
-//    }
+    public void Getter() {
+        int it =1+1;
+    }
 }
